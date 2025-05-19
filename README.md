@@ -5,7 +5,6 @@
 - 💡 Buscando constantemente aprender novas tecnologias e boas práticas de desenvolvimento.
 
 <div>
-  <a href="https://github.com/campoos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=campoos&show_icons=true&theme=material-palenight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campoos&theme=material-palenight&layout=compact"/>
 </div>
